@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koleshjr
 - 👀 I’m interested in machine learning, deep learning  and web3
-- 🌱 I’m currently learning solidity 
+- 🌱 I want to learn vyper, hopefully when i get time
 - 💞️ I’m looking to collaborate on machine learning and deep learning projects 
 
 
