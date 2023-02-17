@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @koleshjr
-- 👀 I’m interested in machine learning, deep learning  and web3
-- 🌱 I want to learn vyper, hopefully when i get time
-- 💞️ I’m looking to collaborate on machine learning and deep learning projects in Agricuture, Health and Fintech
+I'm a Machine Learning and Deep Learning researcher with a passion for agriculture, health-related and fintech projects. My research focuses on developing technologies that can be used to improve our understanding of the environment and the health of our planet. I'm passionate about using data-driven models to find novel solutions to complex problems. I'm also interested in using machine learning techniques to identify new patterns in datasets. My ultimate goal is to use my research to create better and healthier lives for everyone.
 
 
 <!---
