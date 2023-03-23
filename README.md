@@ -6,11 +6,6 @@ https://zindi.africa/users/Koleshjr
 Here is my Zindi Certificate
 https://zindi.africa/users/Koleshjr/competitions/certificate
 
-TOY PROJECTS
-
-FRUIT AND VEGETABLLES CLASSIFIER: 
-
-https://huggingface.co/spaces/Koleshjr/FRUITS_AND_VEGETABLES_CLASSIFIER
 
 
 <!---
