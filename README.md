@@ -8,6 +8,8 @@ https://zindi.africa/users/Koleshjr/competitions/certificate
 
 I am learning rust for fun
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/koleshjr/langs)](https://githubtrends.io)
+
 <!---
 koleshjr/koleshjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
