@@ -7,5 +7,5 @@
 - I am cuurently Learning Rust
 - I am open for any AI related oppportunities and collaborations
 
-❗  Most of my cool repos are private, amazing products in the making 😉. But leave me a message if you are interested in AI <br ><br >
+❗  Most of my cool repos are private, amazing products in the making 😉. But leave me a message if you are interested in AI: koleshjr@gmail.com<br ><br >
 
