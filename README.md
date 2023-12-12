@@ -2,7 +2,7 @@
 
 - Data-driven explorer with a passion for building intelligent systems. 
 - Skilled in applying ML and DL techniques to solve real-world problems.
-- 2nd best Kenyan ML Engineeer and 8th best in Africa on zindi <zindi.africa>
+- 2nd best Kenyan ML Engineeer and 8th best in Africa on [zindi.africa](https://zindi.africa)
 - View some of my achievements: https://zindi.africa/users/Koleshjr/competitions/certificate
 - I am cuurently Learning Rust
 - I am open for any AI related oppportunities and collaborations
