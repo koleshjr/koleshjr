@@ -1,10 +1,16 @@
-I'm a Machine Learning and Deep Learning researcher with a passion for agriculture, health-related and fintech projects. My research focuses on developing technologies that can be used to improve our understanding of the environment and the health of our planet. I'm passionate about using data-driven models to find novel solutions to complex problems. My ultimate goal is to use my research to create better and healthier lives for everyone.
+Data-driven explorer with a passion for building intelligent systems.
+Building the future with Machine Learning and Deep Learning.
+Eager to learn, and driven to push boundaries.
 
-Here is my Zindi Profile
-https://zindi.africa/users/Koleshjr
-
-Here is my Zindi Certificate
-https://zindi.africa/users/Koleshjr/competitions/certificate
+Some of my achievements can be found below
+  Here is my Zindi Profile 
+  https://zindi.africa/users/Koleshjr
+  
+  Here is my Zindi Certificate
+  https://zindi.africa/users/Koleshjr/competitions/certificate
 
 I am learning rust for fun
+
+❗ Most of my cool repos are private, amazing products in the making 😉. But leave me a message if you are interested in AI
+
 
