@@ -13,6 +13,7 @@ Some of my achievements can be found below
   https://zindi.africa/users/Koleshjr/competitions/certificate
 
 I am learning rust for fun
+
 ❗Most of my cool repos are private, amazing products in the making 😉. But leave me a message if you are interested in AI
 
 
