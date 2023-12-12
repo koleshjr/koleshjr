@@ -5,10 +5,11 @@ Building the future with Machine Learning and Deep Learning.
 Eager to learn, and driven to push boundaries.
 
 Some of my achievements can be found below
-  Here is my Zindi Profile 
+
+  My Zindi Profile 
   https://zindi.africa/users/Koleshjr
   
-  Here is my Zindi Certificate
+  My Zindi Certificate
   https://zindi.africa/users/Koleshjr/competitions/certificate
 
 I am learning rust for fun
