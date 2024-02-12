@@ -6,7 +6,7 @@
 - Best rank: 2nd best Kenyan ML Engineer and 8th best in Africa on [zindi.africa](https://zindi.africa)
 - View some of my achievements: https://zindi.africa/users/Koleshjr/competitions/certificate
 - I am currently Learning Rust
-- I am open for any AI related opportunities and collaborations
+- I am open for any AI related collaborations
 
 ❗  Most of my cool repos are private, amazing products in the making 😉. One good example is [inveai](https://www.linkedin.com/feed/update/urn:li:activity:7139905752252534784/). But leave me a message if you are interested in AI: koleshjr@gmail.com<br ><br >
 
